@@ -4,6 +4,6 @@
 
 ### Silicon Misiones - [https://siliconmisiones.gob.ar/](https://siliconmisiones.gob.ar/)
 
-**Autor:** NMaximiliano Rivarola
+**Autor:** Maximiliano Rivarola
 
 **Descripción:** Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
